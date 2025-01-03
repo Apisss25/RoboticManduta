@@ -208,7 +208,7 @@ export const DataQuestions = [
   {
     id: 3,
     question: "Apakah Eskul Robotika Manduta berbayar ?",
-    answer: "Tidak,namun setiap pertemuan Wajib membayar uang kas (Rp.2.000).",
+    answer: "Tidak,namun setiap pertemuan Wajib membayar uang kas (Rp.3.000).",
   },
 ];
 
