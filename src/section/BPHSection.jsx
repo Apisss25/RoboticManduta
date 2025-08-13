@@ -12,7 +12,7 @@ const BPHSection = () => {
         <div className="flex justify-center items-center gap-[50px] sm:gap-[150px]">
           <ProfileBPH
             title={"Ketua"}
-            Name={"Rosyadan Affadel"}
+            Name={"Rosyadan Fadhel W."}
             Image={"./image/Profile.jpeg"}
           />
           <span className="absolute top-[85px] left-[49%] sm:left-[49.5%] w-[10px] h-[10px] rounded-md bg-[#244b85]"></span>

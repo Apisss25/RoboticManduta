@@ -53,11 +53,11 @@ export const dropdownText = [
 export const NamaKetua = [
   {
     id: 1,
-    title: "Ka Raiz (2018/2019)",
+    title: "Ka Rais (2018/2019)",
   },
   {
     id: 2,
-    title: "Ka Andika (2019/2020)",
+    title: "Ka Anfita (2019/2020)",
   },
   {
     id: 3,
